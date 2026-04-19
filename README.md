@@ -74,6 +74,27 @@ Beyond accuracy, I integrated **Grad-CAM** (Gradient-weighted Class Activation M
 
 ---
 
+## 📈 Visualizations & Results | النتائج والرسوم البيانية
+
+### 1. Model Training History (Accuracy & Loss)
+![Training History](graph_accuracy_and_loss.png)
+
+### 2. Confusion Matrix
+![Confusion Matrix](Confution_Matrix.png)
+
+### 3. Classification Report
+![Classification Report](Classification_Report.png)
+
+### 4. Final Evaluation Results
+![Final Evaluation](model_Evaluation.png)
+
+### 5. Explainable AI (Grad-CAM Visualizations)
+| Sample 1 | Sample 2 | Sample 3 |
+| :---: | :---: | :---: |
+| ![Grad-CAM 1](Grade_CAM_1.png) | ![Grad-CAM 2](Grade_CAM_2.png) | ![Grad-CAM 3](Grade_CAM_3.png) |
+
+---
+
 ## 👨‍💻 Author
 **Mohamed Belal**
 * Data Science & AI Diploma (AMIT Learning)
