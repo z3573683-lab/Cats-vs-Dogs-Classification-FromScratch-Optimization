@@ -77,7 +77,7 @@ Beyond accuracy, I integrated **Grad-CAM** (Gradient-weighted Class Activation M
 ## 👨‍💻 Author
 **Mohamed Belal**
 * Data Science & AI Diploma (AMIT Learning)
-* [LinkedIn Profile](https://www.linkedin.com/in/mohamed-belal-3591b03bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+![LinkedIn Profile](https://www.linkedin.com/in/mohamed-belal-3591b03bb?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 * 
 *
